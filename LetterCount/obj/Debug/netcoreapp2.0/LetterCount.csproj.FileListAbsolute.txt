@@ -1,0 +1,10 @@
+/Users/tahiramahmood/Documents/_Git/LetterCount/bin/Debug/netcoreapp2.0/LetterCount.deps.json
+/Users/tahiramahmood/Documents/_Git/LetterCount/bin/Debug/netcoreapp2.0/LetterCount.runtimeconfig.json
+/Users/tahiramahmood/Documents/_Git/LetterCount/bin/Debug/netcoreapp2.0/LetterCount.runtimeconfig.dev.json
+/Users/tahiramahmood/Documents/_Git/LetterCount/bin/Debug/netcoreapp2.0/LetterCount.dll
+/Users/tahiramahmood/Documents/_Git/LetterCount/bin/Debug/netcoreapp2.0/LetterCount.pdb
+/Users/tahiramahmood/Documents/_Git/LetterCount/obj/Debug/netcoreapp2.0/LetterCount.csproj.CoreCompileInputs.cache
+/Users/tahiramahmood/Documents/_Git/LetterCount/obj/Debug/netcoreapp2.0/LetterCount.AssemblyInfoInputs.cache
+/Users/tahiramahmood/Documents/_Git/LetterCount/obj/Debug/netcoreapp2.0/LetterCount.AssemblyInfo.cs
+/Users/tahiramahmood/Documents/_Git/LetterCount/obj/Debug/netcoreapp2.0/LetterCount.dll
+/Users/tahiramahmood/Documents/_Git/LetterCount/obj/Debug/netcoreapp2.0/LetterCount.pdb
