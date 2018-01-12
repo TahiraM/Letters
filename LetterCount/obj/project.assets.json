@@ -12541,11 +12541,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/tahiramahmood/Documents/_Git/LetterCount/LetterCount.csproj",
+      "projectUniqueName": "/Users/tahiramahmood/Documents/_Git/Letters/LetterCount/LetterCount.csproj",
       "projectName": "LetterCount",
-      "projectPath": "/Users/tahiramahmood/Documents/_Git/LetterCount/LetterCount.csproj",
+      "projectPath": "/Users/tahiramahmood/Documents/_Git/Letters/LetterCount/LetterCount.csproj",
       "packagesPath": "/Users/tahiramahmood/.nuget/packages/",
-      "outputPath": "/Users/tahiramahmood/Documents/_Git/LetterCount/obj/",
+      "outputPath": "/Users/tahiramahmood/Documents/_Git/Letters/LetterCount/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

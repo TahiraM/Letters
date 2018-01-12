@@ -11,24 +11,35 @@ namespace LetterCount
 {
     public class Startup
     {
-        // This method gets called by the runtime. Use this method to add services to the container.
-        // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
-        public void ConfigureServices(IServiceCollection services)
-        {
-        }
+        public int price;
+        public string model;
+        public string colour;
+        public int IdNum;
+    }
+#region
+    public class cars
+    {
+        public List<Startup> newcars = new List <Startup>();
 
-        // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-        public void Configure(IApplicationBuilder app, IHostingEnvironment env)
+        public int AddRecord(int Idnum, int pri, string modl, string color)
         {
-            if (env.IsDevelopment())
-            {
-                app.UseDeveloperExceptionPage();
-            }
 
-            app.Run(async (context) =>
-            {
-                await context.Response.WriteAsync("Hello World!");
-            });
+            Startup carsz = new Startup();
+
+            carsz.price = pri;
+            carsz.model = modl;
+            carsz.colour = color;
+            carsz.IdNum = Idnum;
+
+            newcars.Add(carsz);
+
+        
+            return 1;
+
+
+
+
         }
     }
 }
+#endregion
