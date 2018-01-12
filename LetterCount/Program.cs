@@ -90,11 +90,19 @@ namespace LetterCount
                 {
                     ViewRecords();
                 } 
+                if (nowview == "no")
+                {
+                    Console.WriteLine("Bye");
+                }
             }
             
             if (reply == "view")
             {
                 ViewRecords();
+            }
+            if (reply == "no")
+            {
+            Console.WriteLine("Bye");
             }
 
         }
